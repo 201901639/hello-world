@@ -1,0 +1,10 @@
+# LAB 1
+## git clone
+### Lo primero que vamos a hacer en todos los proyectos es crear un repositorio. En el repositorio se guardan todos los archivos de un proyecto. Una vez creado el proyecto, añadiremos código para darle funcionalidad. Nos descargaremos el proyecto para poder trabajar con él. Para descargarme el proyecto utilizaremos el primer comando a probar en el esta práctica que es:
+### git clone
+### La diferencia entre descargárselo directamente y clonarlo es que, al clonarlo, Git irá registrando los cambios que voy haciendo al proyecto.
+## git status
+### El comando git status muestra el estado del directorio de trabajo y del área del entorno de ensayo. Permite ver los cambios que se han preparado, los que no y los archivos en los que Git no va a realizar el seguimiento. El resultado del estado no muestra ninguna información relativa al historial del proyecto.
+## git add
+### Para indicarle a Git los cambios a realizar se usa git add. Al ejecutar git add, los archivos modificados pasan al estado “staged”, esto es, listos para el commit. Si un archivo está “staged” le ha indicado a Git que quiere que formen parte del commit. Ejecutando el siguiente comando le indico a Git que quiero que todos los archivos modificados estén “staged”.
+## git staged
